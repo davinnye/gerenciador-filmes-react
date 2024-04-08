@@ -3,8 +3,8 @@ import "./style.css";
 
 export function Topbar(){
     return (
-        <div>
-        <a href="https://github.com/davinnye">Davinnye</a>
+        <div className="topbar">
+        <a href="https://github.com/davinnye" className="topbar">Davinnye</a>
         </div>
     )
 }
