@@ -16,7 +16,7 @@ center.topbanner {
 }
 
 
-@media(max-width:1120px){
+@media(max-width:1700px){
 img.topbanner{
-    
+    display: none;
 }}
