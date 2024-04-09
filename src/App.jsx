@@ -13,7 +13,7 @@ function App() {
         <Topbar/>
         <Topbanner/>
         <Mainbody>
-          <Menu/>
+        <Menu/>
         </Mainbody>
         <Footer/>
         </>
