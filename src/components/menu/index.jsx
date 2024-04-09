@@ -6,16 +6,16 @@ export function Menu (){
     return(
             <div className="menu">
                 <nav className="menu">
-                    <Link to="/">HOME</Link>            
+                    <Link to="/"className="menu">HOME</Link>            
                 </nav>
                 <nav className="menu">
-                    <Link to="/">FILMES</Link>
+                    <Link to="/"className="menu">FILMES</Link>
                 </nav>
                 <nav className="menu">
-                    <Link to="/">DIRETORES</Link>
+                    <Link to="/"className="menu">DIRETORES</Link>
                 </nav>
                 <nav className="menu">
-                    <Link to="/">ATORES</Link>
+                    <Link to="/"className="menu">ATORES</Link>
                 </nav>
             </div>
 
