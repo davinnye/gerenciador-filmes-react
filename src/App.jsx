@@ -1,3 +1,4 @@
+import { Footer } from "./components/footer";
 import { Mainbody } from "./components/mainbody";
 import { Topbanner } from "./components/topbanner";
 import { Topbar } from "./components/topbar";
@@ -11,6 +12,7 @@ function App() {
         <Topbar/>
         <Topbanner/>
         <Mainbody/>
+        <Footer/>
         </>
     </div>
   );

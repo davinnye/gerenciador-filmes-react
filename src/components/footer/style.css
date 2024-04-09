@@ -1,0 +1,11 @@
+div.footer{
+    height: 150px;
+    background-color: whitesmoke;
+    position: relative;
+    top: -100px;
+}
+
+div.mainfooter{
+    height: 250px;
+    background-color: whitesmoke;
+}
